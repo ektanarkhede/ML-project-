@@ -1,17 +1,25 @@
-Dataset source 
+Dataset source :
+
+
 The dataset used for this analysis has been obtained from the India Data Portal, a government-supported open data platform that provides access to a wide range of datasets related to various socio-economic and health indicators across India. Specifically, this dataset is derived from the National Family Health Survey (NFHS), which is a large-scale, multi-round survey conducted in a representative sample of households throughout India. The NFHS provides essential data on population, health, and nutrition for policy and program purposes. It serves as a critical source of information for researchers, policymakers, and institutions to understand demographic patterns, health outcomes, and social development indicators across different states and regions of the country.
 
 
 Title:
+
+
 Analysis of National Family Health Survey (NFHS) Data for Identifying Key Health and Nutrition Indicators in India
 
 Short Description:
 This project utilizes data obtained from the India Data Portal, specifically sourced from the National Family Health Survey (NFHS), to analyze crucial health and nutrition indicators across different regions of India. The study aims to uncover patterns and relationships among demographic, health, and socio-economic variables that influence public health outcomes. By applying machine learning and data analysis techniques, the project identifies significant factors affecting child nutrition, maternal health, and general well-being. The findings contribute valuable insights for policymakers and health organizations to design targeted interventions and improve healthcare delivery in India. Overall, the project highlights how data-driven approaches can support evidence-based public health strategies.
 
 Methods:
+
+
 The approach followed in this project involves a structured machine learning workflow aimed at extracting meaningful patterns and predictive insights from the National Family Health Survey (NFHS) dataset. The process is divided into several stages — data acquisition, preprocessing, exploratory data analysis (EDA), model development, and evaluation.
 
 Data Collection and Understanding:
+
+
 The dataset was sourced from the India Data Portal, containing key demographic, socio-economic, and health-related attributes. The data provides information such as population characteristics, child and maternal health indicators, and nutritional statistics across various states and regions of India.
 
 (Insert Figure 1: Overview of dataset attributes and data source flow)
