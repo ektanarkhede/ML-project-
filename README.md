@@ -12,9 +12,10 @@ Methods:
 
 This project used a systematic machine learning process to extract significant patterns and predictive features from the NFHS dataset. The process involves several steps: data collection, preprocessing, exploratory data analysis, modeling, and performance evaluation.
 
+
 Data Collection and Analysis:
 
-The dataset from the India Data Portal contains crucial socioeconomic, health, and demographic variables. It includes maternal and child health indicators, demographic characteristics, and nutrition indicators across different states and Union Territories of India.
+The critical socioeconomic, health, and demographic variables are presented in the dataset by the India Data Portal. It includes maternal and child health indicators, demographic characteristics, and nutrition indicators across different states and Union Territories of India.
 
 (Insertion of Figure 1: Overview of data source flow and characteristics of the dataset.)
 
