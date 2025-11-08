@@ -24,11 +24,6 @@ Data Preprocessing:
 Missing values were either deleted or imputed based on their effect on model performance. Categorical variables were encoded with either Label Encoding or One-Hot Encoding, depending on the algorithm’s requirement. Numerical features were standardized to have the same scale to avoid any bias during training. Outliers were analyzed to confirm the strength of the dataset. 
 
 
-(Insert Table 1: Summary of Data Transformation Methods and Preprocessing Procedures.) 
-
-
-To explore relationships between major variables like income, education, nutrition indicators, and health outcomes, correlation matrices, heatmaps, and histograms were used. This helped identify key factors that influence the target variable (such as maternal health status or child undernutrition).
-
 
 (Insert Figure 2: Correlation heatmap for several selected health indicators.)
 
@@ -61,13 +56,9 @@ It seems there was no text provided for paraphrasing. Please provide the text yo
 pip install pandas matplotlib numpy jupyter scikit-learn seaborn
 
 
-
 Install Jupyter Notebook or JupyterLab if you have not done so yet.
 
 Get the dataset here:
-
-You can use the file provided for the project, or download the dataset national-family-health-survey.csv from the India Data Portal. Place the dataset in the same folder as your Final_ML_project.ipynb Jupyter Notebook file.
-
 
 Access the Final_ML_project.ipynb document.
 
