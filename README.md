@@ -10,7 +10,7 @@ This project uses data from the National Family Health Survey, obtained through 
 
 Methods:
 
-This project used a systematic machine learning process to extract significant patterns and predictive features from the NFHS dataset. The process involves several steps: data collection, preprocessing, exploratory data analysis, modeling, and performance evaluation.
+A structured machine learning process was followed for the extraction of important patterns and predictive features in the NFHS dataset, including data collection, preprocessing, exploratory data analysis, modeling, and performance evaluation.
 
 
 Data Collection and Analysis:
