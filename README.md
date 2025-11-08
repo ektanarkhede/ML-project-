@@ -1,10 +1,13 @@
 Origin of the dataset:
 
-The India Data Portal, an open data website supported by the government that offers a number of datasets on socioeconomic and health indicators throughout India, is where the data used in this analysis came from. The National Family Health Survey (NFHS), a multi-round survey carried out in a representative sample of households nationwide, is the particular source. For the creation of policies and programs, the NFHS provides vital population, health, and nutrition data. It has grown to be a crucial tool for scholars, decision-makers, and organizations wishing to evaluate demographic trends, social development metrics, and health outcomes by state and subregion within the nation.
+The India Data Portal, an open data website supported by the government taht offers a number of datasets on socioeconomic and health indicators throughout India, 
+is where the data used in the analysis came form. The National Family Health Survey (NFHS), a multi-round survey carried out in a representative sameple of households nationwide, is the particular source. For the creation of policies and programs, the NFHS provides vital population, health, and nutrition data. It has grown to be a crucial tool for scholars, decision-makers, and organizations wishing to evaluate demographic trends, social development metrics, and health outcomes by state and subregion within the nation.
 
-Analyzing the National Family Health Survey (NFHS) to Determine Important Health and Nutrition Metrics in India Data Synopsis: 
+Aanlyzing the National Family Health Survey (NFHS) to Determine Important Health and Nutrition Metrics in India Data Synopsis:
 
-The project analyzes key nutrition and health indicators across various states in India using data from the National Family Health Survey (NFHS) accessed through the India Data Portal. It aims to identify patterns and correlations among socioeconomic, health, and demographic factors impacting public health outcomes. The project highlights critical factors affecting maternal health, child nutrition, and overall wellbeing through machine learning and data mining techniques. Findings provide actionable insights for health organizations and policymakers to develop targeted interventions and improve healthcare delivery in India. In sum, it illustrates how data-driven approaches can optimize effective public health strategies.
+The project analyzes key nutrition and health indicators across various states in India using data from the National Family Health Survey (NFHS) accessed through the India Data Portal. It aims to identify patterns and correlations among socioeconomic, helath, and demographic factors impacting public health outcomes. The project highlights critical factors affecting maternal health, child nutrition, and overall wellbeing thorugh machine learning aand data mining techniques. Findings provide actionable insights for health organizations and policymakers to develop targeted interventions and improve healthcare delivery in India. In sum, it illustrates how data-driven approaches can optimize effective public health strategies.
+
+
 
 Methods:
 
